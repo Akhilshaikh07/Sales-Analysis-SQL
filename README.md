@@ -24,22 +24,27 @@ Views for reusable analysis
 1 Sales Performance Over Time
 Analyzed monthly and yearly sales trends
 Measured total sales, customers, and quantity growth
+
 2 Cumulative & Moving Analysis
 Calculated running total of sales
 Derived moving average of sales per year
+
 3 Product Performance Analysis
 Compared each product’s sales to:
 Its average performance
 Previous year’s sales (YoY Growth %)
 Classified products as Above Avg / Below Avg
+
  4 Category Contribution
 Identified top contributing product categories
 Calculated % share of each category in total sales
+
 5 Customer Segmentation
 Segmented customers into VIP, Regular, New
 VIP → >12 months + >5000 total spend
 Regular → >12 months + <=5000 spend
 New → <12 months histor
+
 6 Customer Report (Portfolio-Ready)
 Consolidated customer metrics:
 Name, Age & Age Group
@@ -61,7 +66,7 @@ This project demonstrates advanced SQL skills in:
 ✔ Advanced Analytical Queries
 ✔ Creating Portfolio-Ready Projects
 
-# This project highlights my ability to derive actionable insights from raw data using SQL alone, making it suitable for Data Analyst
+ This project highlights my ability to derive actionable insights from raw data using SQL alone, making it suitable for Data Analyst
 
 
 
