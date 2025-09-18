@@ -1,0 +1,10 @@
+📂 Dataset Information  
+
+Source: Public dataset from Data With Baraa – SQL Portfolio Project (https://datawithbaraa.com)  
+
+Tables Used:  
+1. sales3 → Contains transactional sales data (order number, product key, customer key, order date, sales amount, quantity, etc.)  
+2. customer1 → Contains customer demographic information (customer number, name, birthdate, location, etc.)  
+3. product2 → Contains product details (product key, product name, category, cost, price, etc.)  
+ 
+Period Covered: Multiple years of retail sales transactions  
